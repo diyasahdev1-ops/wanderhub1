@@ -1,0 +1,6 @@
+{
+  "name": "WanderHub - Smart Travel & Itinerary Platform",
+  "description": "Discover incredible destinations, plan custom itineraries with Google Gemini AI, explore interactive Google Maps, and manage your travel journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
